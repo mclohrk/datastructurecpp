@@ -4,7 +4,7 @@
 Data structure with examples of training exercises in C++
 
 
-## Referência
+## Reference
 
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
